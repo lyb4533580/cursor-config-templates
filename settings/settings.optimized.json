@@ -1,0 +1,17 @@
+{
+  "cursor.composer.cache.enabled": true,
+  "cursor.composer.useCodebaseIndex": true,
+  "editor.fontSize": 14,
+  "editor.fontFamily": "JetBrains Mono, Fira Code, monospace",
+  "editor.fontLigatures": true,
+  "workbench.colorTheme": "Cursor Dark",
+  "editor.minimap.enabled": false,
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "boundary",
+  "editor.cursorBlinking": "phase",
+  "editor.bracketPairColorization.enabled": true,
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/.git": true
+  }
+}
